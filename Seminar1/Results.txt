@@ -1,0 +1,88 @@
+Loaded file: movies.txt -> contains 577944 rows of data
+Elapsed time: 3.59370756149292 sec
+
+Inserting data into BinaryTree
+Elapsed time: 35.110296964645386 sec
+
+Find by shortName starting for 1000 random objects
+Elapsed time: 0.015627384185791016 sec
+Average search time: 1.5627384185791017e-05 sec
+
+Find by shortName with wildCard starting for range Aban*-Abba*
+ID: 1205699	shortName: Abanunule 	longName: Abanunule  (2009)
+ID: 439713	shortName: Abar Aranye	longName: Abar Aranye
+ID: 262775	shortName: Abar Aranye 	longName: Abar Aranye  (2003)
+ID: 183976	shortName: Abar Asbo Phire	longName: Abar Asbo Phire
+ID: 1814882	shortName: Abar Asbo Phire 	longName: Abar Asbo Phire  (2004)
+ID: 604408	shortName: Abar, the First Black Superman	longName: Abar, the First Black Superman
+ID: 48218	shortName: Abar, the First Black Superman 	longName: Abar, the First Black Superman  (1977)
+ID: 79054	shortName: Abare Goemon	longName: Abare Goemon
+ID: 113001	shortName: Abare Goemon 	longName: Abare Goemon  (1966)
+ID: 2132140	shortName: Abare inu 	longName: Abare inu  (1965)
+ID: 112912	shortName: Abarenbô Shôgun	longName: Abarenbô Shôgun
+ID: 830939	shortName: Abarenbô Shôgun 	longName: Abarenbô Shôgun  (1978)
+ID: 1525874	shortName: Abarenbô mama	longName: Abarenbô mama
+ID: 1472084	shortName: Abarinding	longName: Abarinding
+ID: 1146808	shortName: Abaron	longName: Abaron
+ID: 247659	shortName: Abaron 	longName: Abaron  (2009)
+ID: 2351750	shortName: Abartan	longName: Abartan
+ID: 264046	shortName: Abartan 	longName: Abartan  (1936)
+ID: 1804319	shortName: Abarten der körperlichen Liebe	longName: Abarten der körperlichen Liebe
+ID: 623081	shortName: Abasheshe	longName: Abasheshe
+ID: 137754	shortName: Abasheshe 	longName: Abasheshe  (1962)
+ID: 1605292	shortName: Abashiri Bangaichi	longName: Abashiri Bangaichi
+ID: 1204233	shortName: Abashiri Bangaichi 	longName: Abashiri Bangaichi  (1965)
+ID: 1605293	shortName: Abashiri Bangaichi: Aku eno Chosen	longName: Abashiri Bangaichi: Aku eno Chosen
+ID: 1656560	shortName: Abashiri Bangaichi: Aku eno Chosen 	longName: Abashiri Bangaichi: Aku eno Chosen  (1967)
+ID: 871674	shortName: Abashiri Bangaichi: Dai-setsugen no Taiketsu	longName: Abashiri Bangaichi: Dai-setsugen no Taiketsu
+ID: 871675	shortName: Abashiri Bangaichi: Fubuki no Toso	longName: Abashiri Bangaichi: Fubuki no Toso
+ID: 114040	shortName: Abashiri Bangaichi: Hokkai-hen	longName: Abashiri Bangaichi: Hokkai-hen
+ID: 871676	shortName: Abashiri Bangaichi: Ketto Reika 30 do	longName: Abashiri Bangaichi: Ketto Reika 30 do
+ID: 871677	shortName: Abashiri Bangaichi: Koya no taiketsu	longName: Abashiri Bangaichi: Koya no taiketsu
+ID: 871678	shortName: Abashiri Bangaichi: Nangoku no Taiketsu	longName: Abashiri Bangaichi: Nangoku no Taiketsu
+ID: 5758	shortName: Abashiri bangaichi: Bôkyô hen	longName: Abashiri bangaichi: Bôkyô hen
+ID: 2076777	shortName: Abashiri bangaichi: Bôkyô hen 	longName: Abashiri bangaichi: Bôkyô hen  (1965)
+ID: 1486954	shortName: Abashiri ikka: The movie	longName: Abashiri ikka: The movie
+ID: 962621	shortName: Abashiri ikka: The movie 	longName: Abashiri ikka: The movie  (2009)
+ID: 422321	shortName: Abasto zombie 	longName: Abasto zombie  (2008)
+ID: 1484103	shortName: Abasto/Cannes	longName: Abasto/Cannes
+ID: 1475801	shortName: Abat-jour	longName: Abat-jour
+ID: 115923	shortName: Abatjour 2	longName: Abatjour 2
+ID: 730317	shortName: Abattages	longName: Abattages
+ID: 1965853	shortName: Abattoir	longName: Abattoir
+ID: 566666	shortName: Abattoir 	longName: Abattoir  (2007)
+ID: 646600	shortName: Abatâ	longName: Abatâ
+ID: 2115511	shortName: Abay vs. Vegas	longName: Abay vs. Vegas
+ID: 273294	shortName: Abay vs. Vegas 	longName: Abay vs. Vegas  (2010)
+ID: 460318	shortName: Abayo dachikô	longName: Abayo dachikô
+ID: 2018494	shortName: Abazure no kairaku 	longName: Abazure no kairaku  (1967)
+ID: 2273131	shortName: Abba Ganuv	longName: Abba Ganuv
+ID: 193250	shortName: Abba Ganuv 	longName: Abba Ganuv  (1987)
+ID: 193251	shortName: Abba Ganuv II	longName: Abba Ganuv II
+ID: 182373	shortName: Abba Ganuv II 	longName: Abba Ganuv II  (1989)
+ID: 23694	shortName: Abba Ganuv III	longName: Abba Ganuv III
+ID: 224278	shortName: Abba Ganuv III 	longName: Abba Ganuv III  (1991)
+ID: 1636828	shortName: Abba Shahor Lavan 	longName: Abba Shahor Lavan  (2003)
+ID: 1398598	shortName: Abba! A Hudgi	longName: Abba! A Hudgi
+ID: 325003	shortName: Abbaigaru	longName: Abbaigaru
+ID: 806162	shortName: Abbaigaru Ammaigaru	longName: Abbaigaru Ammaigaru
+ID: 253004	shortName: Abbandono	longName: Abbandono
+ID: 419497	shortName: Abbandono 	longName: Abbandono  (1940)
+ID: 990277	shortName: Abbas Kiarostami: The Art of Living	longName: Abbas Kiarostami: The Art of Living
+Elapsed time: 0.5624990463256836 sec
+Dynamic height of tree is 22
+
+
+Minimal value of tree: !Women Art Revolution 
+ID at minValue location:2085214
+ShortName at minValue location:!Women Art Revolution 
+LongName at minValue location:!Women Art Revolution  (2010)
+
+
+Maximum value of tree: ìCàcaro! 
+ID at maxValue location:495659
+ShortName at maxValue location:ìCàcaro! 
+LongName at maxValue location:ìCàcaro!  (2002)
+
+Number of right rotations: 67425
+Number of left rotations: 70795

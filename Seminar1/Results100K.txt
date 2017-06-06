@@ -1,0 +1,42 @@
+Loaded file: movies100K.txt -> contains 100000 rows of data
+Elapsed time: 0.6093153953552246 sec
+
+Inserting data into BinaryTree
+Elapsed time: 5.065090656280518 sec
+
+Find by shortName starting for 1000 random objects
+Elapsed time: 0.01562643051147461 sec
+Average search time: 1.562643051147461e-05 sec
+
+Find by shortName with wildCard starting for range Aba*-Abb*
+ID: 1042383	shortName: Abaidha	longName: Abaidha
+ID: 1242365	shortName: Abandonado	longName: Abandonado
+ID: 1408596	shortName: Abang	longName: Abang
+ID: 1408595	shortName: Abang '92	longName: Abang '92
+ID: 1205699	shortName: Abanunule 	longName: Abanunule  (2009)
+ID: 113001	shortName: Abare Goemon 	longName: Abare Goemon  (1966)
+ID: 112912	shortName: Abarenbô Shôgun	longName: Abarenbô Shôgun
+ID: 1146808	shortName: Abaron	longName: Abaron
+ID: 137754	shortName: Abasheshe 	longName: Abasheshe  (1962)
+ID: 1204233	shortName: Abashiri Bangaichi 	longName: Abashiri Bangaichi  (1965)
+ID: 114040	shortName: Abashiri Bangaichi: Hokkai-hen	longName: Abashiri Bangaichi: Hokkai-hen
+ID: 115923	shortName: Abatjour 2	longName: Abatjour 2
+ID: 1398598	shortName: Abba! A Hudgi	longName: Abba! A Hudgi
+ID: 1406891	shortName: Abbey Road Debuts 	longName: Abbey Road Debuts  (2011)
+Elapsed time: 0.1093742847442627 sec
+Dynamic height of tree is 19
+
+
+Minimal value of tree: #cafe 
+ID at minValue location:1135706
+ShortName at minValue location:#cafe 
+LongName at minValue location:#cafe  (2008)
+
+
+Maximum value of tree: à parte
+ID at maxValue location:1229295
+ShortName at maxValue location:à parte
+LongName at maxValue location:à parte
+
+Number of right rotations: 11605
+Number of left rotations: 12741
